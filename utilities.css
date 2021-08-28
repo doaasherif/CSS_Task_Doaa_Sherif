@@ -1,0 +1,27 @@
+
+/* vertical line*/
+.vl{
+    border-left: 2px solid #FFFFFF;
+    height: 27px;
+    display: inline-block;
+}
+
+
+/* border */
+.uD0-lg-radius{
+    border-radius: 30px;
+}
+
+.uD0-sm-radius{
+    border-radius: 10px;
+}
+
+
+/* text */
+.uD0-text-caps{
+    text-transform: capitalize;
+}
+
+.uD0-text-centre{
+    text-align: center;
+}

@@ -1,0 +1,54 @@
+.D0-card-2-img{
+    background-image: url('https://img.freepik.com/free-vector/real-estate-logo-concept-with-initial-o-element_139869-322.jpg?size=338&ext=jpg');
+    width: 192px;
+    height: 192px;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 25px;
+    right: calc(50% - 96px);
+}
+
+.D0-card-3-pp-img{
+    background-image: url('https://cdn.shopify.com/s/files/1/2991/4042/files/navy-check.jpg?v=1558585689');
+    width: 192px;
+    height: 192px;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 25px;
+    right: calc(50% - 96px);
+}
+
+.D0-card-3-sm-img{
+    background-image: url('https://img.freepik.com/free-vector/real-estate-logo-concept-with-initial-o-element_139869-322.jpg?size=338&ext=jpg');
+    width: 56px;
+    height: 56px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 0px;
+    right: -28px;
+}
+
+.D0-in-img{
+    background-image: url('https://dustinstout.com/wp-content/uploads/2016/04/linkedin-icon-1920x1080-920x518.jpg');
+    width: 331px;
+    height: 232px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.D0-home-img{
+    background-image: url('https://assets.themortgagereports.com/wp-content/uploads/2019/03/Modern-Home-Style-The-Mortgage-Reports-On-Tour.jpg');
+    width: 331px;
+    height: 232px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}

@@ -1,0 +1,294 @@
+.D0-card-holder-1-4{
+    width: 339px;
+    height: 474px;
+    margin: 100px;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.D0-card-holder-2{
+    width: 339px;
+    height: 487px;
+    margin: 100px;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.D0-card-holder-3{
+    width: 339px;
+    height: 493px;
+    margin: 100px;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+
+
+/* Card 1 */
+/* ************************************************************************************************************** */
+.D0-home-img > button{
+    width: 32px;
+    height: 32px;
+}
+
+.D0-home-img > .div1 > button{
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: calc(50% - 14px);
+    right: 10px;
+}
+
+.D0-home-img > .div2 > .b1{
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: calc(50% - 14px);
+    left: 10px;
+}
+
+.D0-home-img > .div2 > .b2{
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: calc(50% - 14px);
+    right: 10px;
+}
+
+.D0-home-img > .div1 > p{
+    display: inline-block;
+    position: absolute;
+    top: calc(50% - 4px);
+    right: calc(50% - 46px);
+    margin: 0px;
+}
+
+.D0-home-img > .div1 > i{
+    position: absolute;
+    top: calc(50% - 15px);
+    left: 10px;
+}
+
+.D0-home-img > .div1{
+    width: 195px;
+    height: 40px;
+    position: absolute;
+    bottom: -27px;
+    left: 23px;
+}
+
+.D0-home-img > .div2{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    bottom: -27px;
+    right: 22px;
+}
+
+.D0-heart{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.D0-left-arrow{
+    position: absolute;
+    top: calc(50% - 16px);
+    left: 10px;
+
+}
+
+.D0-right-arrow{
+    position: absolute;
+    top: calc(50% - 16px);
+    right: 10px;
+}
+
+.D0-info-div-apartment{
+    margin: 36px 0px -5px 17px;
+}
+
+.D0-info-div-apartment > .p2{
+    display: inline-block;
+}
+
+.D0-info-div-apartment > p{
+    margin: 5px;
+}
+
+.D0-info-div-apartment > i{
+    margin-left: 4px;
+}
+
+.D0-div-buttons{
+    margin: 9px 0px 20px 17px;
+}
+
+.D0-div-buttons > button{
+    padding: 5px 10px 5px 10px;
+}
+
+.D0-purple-line{
+    width: 339px;
+    height: 49px;
+    position: absolute;
+    bottom: 39px;  
+}
+
+.D0-purple-line > div{
+    display: inline-block;
+    margin: 2px 5px 2px 5px;
+}
+
+.D0-purple-line > div > i{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.D0-purple-line > div > p{
+    margin: 0px;
+}
+
+
+.D0-cost{
+    position: absolute;
+    bottom: 6px;  
+    right: calc(50% - 45px);
+}
+
+.D0-cost > p{
+    display: inline;
+    margin: 0px;
+}
+
+
+
+/* Card 2 */
+/* ************************************************************************************************************** */
+.D0-rating-box{
+    width: 70px;
+    height: 15px;
+    position: absolute;
+    bottom: -9px;
+    right: calc(50% - 35px);
+}
+
+.D0-rating-box > p{
+    margin-top: 2px;
+    position: absolute;
+    left: 25px;
+}
+
+.D0-rating-box > i{
+    margin-top: 3px;
+    position: absolute;
+    right: 20px;
+}
+
+.D0-icon-div{
+    width: 40px;
+    height: 40px;
+}
+
+.D0-icon-img{
+    margin: 12px;
+}
+
+.D0-whole-icon > div{
+    margin: 0px 35px 2px 24px;
+    display: inline-block;
+}
+
+.D0-whole-icon > p{
+    margin: 0px 34px 2px 17px;
+    display: inline-block;
+}
+
+
+
+/* Card 3 */
+/* ************************************************************************************************************** */
+
+.D0-card-3-rating{
+    width: 70px;
+    height: 15px;
+    position: absolute;
+    bottom: -18px;
+    right: calc(50% - 35px);
+}
+
+
+/* info */
+.D0-info-div{
+    margin: auto;
+    margin-top: 20px;
+    width: 185px;
+    height: 82px;
+}
+
+.D0-info-div > p{
+    margin: 0px;
+}
+
+
+/* contacts */
+.D0-card-3-contacts{
+    margin: 20px;
+}
+
+.D0-message{
+    padding: 2px 32px 2px 32px;
+    margin: 2px;
+}
+
+.D0-phone{
+    padding: 5px 5px 3px 7px;
+    margin: 2px;
+}
+
+button{
+    border: none;
+}
+
+
+/* bottom line*/
+.D0-bl-elem{
+    display: inline-block;
+    margin: 16px 24px 8px 24px;
+}
+
+.D0-bl-elem > p{
+    margin: 0px;
+    text-align: left;
+}
+
+.D0-bottom-line{
+    width: 339px;
+    height: 67px;
+    position: absolute;
+    bottom: 0px;  
+}
+
+
+/* Card 4 */
+/* ************************************************************************************************************** */
+.D0-written-content{
+    margin: 20px;
+    width: 185;
+    height: 82; 
+}
+
+.D0-written-content > .p-house, .p-pup{
+    margin: 0px 0px 2px 0px;
+}
+
+.p-essay{
+    margin-top: 25px;
+    width: 299px;
+    height: 74px;
+    overflow: hidden;
+}
+
