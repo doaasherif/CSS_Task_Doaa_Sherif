@@ -94,6 +94,10 @@
     right: 10px;
 }
 
+.D0-heart > i{
+    margin-top: 6px;
+}
+
 .D0-left-arrow{
     position: absolute;
     top: calc(50% - 16px);
@@ -240,12 +244,12 @@
 }
 
 .D0-message{
-    padding: 2px 32px 2px 32px;
+    padding: 9px 32px 9px 32px;
     margin: 2px;
 }
 
 .D0-phone{
-    padding: 5px 5px 3px 7px;
+    padding: 11px 11px 11px 11px;
     margin: 2px;
 }
 

@@ -31,6 +31,22 @@
     background-color: #40C9FF; 
 }
 
+.cD0-transparent-white{
+    background-color: rgba(249, 250, 254, 0.5);
+}
+
+.cD0-transparent-green{
+    background-color: rgba(43, 202, 122, 0.6);
+}
+
+.cD0-transparent-purple{
+    background-color: rgba(128, 128, 255, 0.6);
+}
+
+.cD0-transparent-light-blue{
+    background-color: rgba(64, 201, 255, 0.6);
+}
+
 
 
 /* Gradient */
